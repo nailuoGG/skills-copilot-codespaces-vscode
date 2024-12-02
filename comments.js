@@ -1,4 +1,4 @@
-// create web server with express
+// Create web server with express
 // create a route for /comments
 // send a json response with some comments
 
